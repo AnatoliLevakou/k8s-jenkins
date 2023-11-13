@@ -1,0 +1,172 @@
+credentials:
+  system:
+    domainCredentials:
+    - credentials:
+      - basicSSHUserPrivateKey:
+          id: "nesmishlenish-github"
+          passphrase: "{AQAAABAAAAAQY/HG4g4vBBS/1zY4f+LEo57RAQC0k8az/aoc9pGnAlo=}"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: GLOBAL
+          username: "AnatoliLevakou"
+jenkins:
+  agentProtocols:
+  - "JNLP4-connect"
+  - "Ping"
+  authorizationStrategy:
+    loggedInUsersCanDoAnything:
+      allowAnonymousRead: false
+  clouds:
+  - kubernetes:
+      containerCap: 10
+      containerCapStr: "10"
+      jenkinsTunnel: "jenkins-agent.jenkins.svc.cluster.local:50000"
+      jenkinsUrl: "http://jenkins.jenkins.svc.cluster.local:8080"
+      name: "kubernetes"
+      namespace: "jenkins"
+      podLabels:
+      - key: "jenkins/jenkins-jenkins-agent"
+        value: "true"
+      serverUrl: "https://kubernetes.default"
+      templates:
+      - containers:
+        - args: "^${computer.jnlpmac} ^${computer.name}"
+          envVars:
+          - envVar:
+              key: "JENKINS_URL"
+              value: "http://jenkins.jenkins.svc.cluster.local:8080/"
+          image: "jenkins/inbound-agent:3107.v665000b_51092-15-alpine-jdk17"
+          name: "jnlp"
+          resourceLimitCpu: "512m"
+          resourceLimitMemory: "512Mi"
+          resourceRequestCpu: "512m"
+          resourceRequestMemory: "512Mi"
+          workingDir: "/home/jenkins/agent"
+        id: "2b9685da0567c46eb8ba98dfe1b43edcfb3d6e64b1d5c188d28ec152fb3c2003"
+        label: "jenkins-jenkins-agent"
+        name: "default"
+        namespace: "jenkins"
+        nodeUsageMode: "NORMAL"
+        podRetention: "never"
+        serviceAccount: "default"
+        slaveConnectTimeout: 100
+        slaveConnectTimeoutStr: "100"
+        yamlMergeStrategy: "override"
+  crumbIssuer:
+    standard:
+      excludeClientIPFromCrumb: true
+  disableRememberMe: false
+  disabledAdministrativeMonitors:
+  - "hudson.util.DoubleLaunchChecker"
+  - "hudson.diagnosis.ReverseProxySetupMonitor"
+  labelAtoms:
+  - name: "built-in"
+  - name: "jenkins-jenkins-agent"
+  markupFormatter: "plainText"
+  mode: NORMAL
+  myViewsTabBar: "standard"
+  numExecutors: 0
+  primaryView:
+    all:
+      name: "all"
+  projectNamingStrategy: "standard"
+  quietPeriod: 5
+  remotingSecurity:
+    enabled: true
+  scmCheckoutRetryCount: 0
+  securityRealm:
+    local:
+      allowsSignup: false
+      enableCaptcha: false
+      users:
+      - id: "admin"
+        name: "Jenkins Admin"
+        properties:
+        - "apiToken"
+        - "mailer"
+        - "myView"
+        - preferredProvider:
+            providerId: "default"
+        - "timezone"
+        - "experimentalFlags"
+      - id: "nesmishlenish"
+        name: "Anatoli Levakou"
+        properties:
+        - "apiToken"
+        - mailer:
+            emailAddress: "nesmishlenish@gmail.com"
+        - preferredProvider:
+            providerId: "default"
+        - "experimentalFlags"
+  slaveAgentPort: 50000
+  updateCenter:
+    sites:
+    - id: "default"
+      url: "https://updates.jenkins.io/update-center.json"
+  views:
+  - all:
+      name: "all"
+  viewsTabBar: "standard"
+globalCredentialsConfiguration:
+  configuration:
+    providerFilter: "none"
+    typeFilter: "none"
+security:
+  apiToken:
+    creationOfLegacyTokenEnabled: false
+    tokenGenerationOnCreationEnabled: false
+    usageStatisticsEnabled: true
+  gitHooks:
+    allowedOnAgents: false
+    allowedOnController: false
+  gitHostKeyVerificationConfiguration:
+    sshHostKeyVerificationStrategy: "noHostKeyVerificationStrategy"
+unclassified:
+  buildDiscarders:
+    configuredBuildDiscarders:
+    - "jobBuildDiscarder"
+  enrichedSummaryConfig:
+    enrichedSummaryEnabled: false
+    httpClientDelayBetweenRetriesInSeconds: 1
+    httpClientMaxRetries: 3
+    httpClientTimeoutInSeconds: 1
+  fingerprints:
+    fingerprintCleanupDisabled: false
+    storage: "file"
+  injectionConfig:
+    allowUntrusted: false
+    checkForBuildAgentErrors: false
+    enabled: false
+    enforceUrl: false
+    injectCcudExtension: false
+    injectMavenExtension: false
+  junitTestResultStorage:
+    storage: "file"
+  location:
+    adminAddress: "address not configured yet <nobody@nowhere>"
+    url: "http://jenkins:8080/"
+  mailer:
+    charset: "UTF-8"
+    useSsl: false
+    useTls: false
+  pollSCM:
+    pollingThreadCount: 10
+  prismConfiguration:
+    theme: PRISM
+  scmGit:
+    addGitTagAction: false
+    allowSecondFetch: false
+    createAccountBasedOnEmail: false
+    disableGitToolChooser: false
+    hideCredentials: false
+    showEntireCommitSummaryInChanges: false
+    useExistingAccountWithSameEmail: false
+tool:
+  git:
+    installations:
+    - home: "git"
+      name: "Default"
+  mavenGlobalConfig:
+    globalSettingsProvider: "standard"
+    settingsProvider: "standard"
